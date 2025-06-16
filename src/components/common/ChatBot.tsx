@@ -15,7 +15,7 @@ const ChatBot: React.FC = () => {
   const [messages, setMessages] = useState<Message[]>([
     {
       id: '1',
-      text: 'Hello! I\'m your AcademicHub assistant. How can I help you today?',
+      text: 'Hello! I\'m your DoMyCollege assistant. How can I help you today?',
       sender: 'bot',
       timestamp: new Date(),
     },
@@ -34,7 +34,7 @@ const ChatBot: React.FC = () => {
     'what are your pricing rates': 'Our pricing depends on the type of task, urgency, and number of pages. Assignments start from ₹100 per page, projects from ₹250 per page, and research papers from ₹200 per page.',
     'how long does it take to complete': 'Completion time varies based on complexity and urgency. Typically, assignments take 2-3 days, projects 5-7 days, and research papers 3-5 days.',
     'can i track my order status': 'Yes! You can track your order status in real-time from your dashboard. You\'ll receive updates as your task progresses through different stages.',
-    'default': 'I\'m here to help! You can ask me about our services, pricing, how to submit tasks, or anything else related to AcademicHub.',
+    'default': 'I\'m here to help! You can ask me about our services, pricing, how to submit tasks, or anything else related to DoMyCollege.',
   };
 
   const handleSendMessage = () => {
@@ -109,7 +109,7 @@ const ChatBot: React.FC = () => {
                   <Bot className="w-5 h-5 text-white" />
                 </div>
                 <div>
-                  <h3 className="font-semibold text-slate-800 dark:text-white">AcademicHub Assistant</h3>
+                  <h3 className="font-semibold text-slate-800 dark:text-white">DoMyCollege Assistant</h3>
                   <p className="text-xs text-success-600 dark:text-success-400">Online</p>
                 </div>
               </div>

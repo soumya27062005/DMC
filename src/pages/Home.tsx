@@ -211,7 +211,7 @@ const Home: React.FC = () => {
           className="text-center space-y-6 mb-16"
         >
           <h2 className="text-3xl lg:text-5xl font-bold text-slate-800 dark:text-white">
-            Why Choose <span className="bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent">AcademicHub</span>?
+            Why Choose <span className="bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent">DoMyCollege</span>?
           </h2>
           <p className="text-xl text-slate-600 dark:text-slate-300 max-w-3xl mx-auto">
             We provide comprehensive academic services with a focus on quality, reliability, and student success.

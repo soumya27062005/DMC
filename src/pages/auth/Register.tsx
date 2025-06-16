@@ -59,7 +59,7 @@ const Register: React.FC = () => {
             Create Account
           </h2>
           <p className="mt-2 text-slate-600 dark:text-slate-400">
-            Join AcademicHub and start your journey
+            Join DoMyCollege and start your journey
           </p>
         </motion.div>
 

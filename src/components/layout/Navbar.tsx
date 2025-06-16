@@ -44,7 +44,7 @@ const Navbar: React.FC = () => {
               <BookOpen className="w-6 h-6 text-white" />
             </div>
             <span className="text-xl font-bold bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent">
-              AcademicHub
+              DoMyCollege
             </span>
           </Link>
 

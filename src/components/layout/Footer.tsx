@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
               <div className="p-2 bg-gradient-to-br from-primary-500 to-secondary-500 rounded-xl">
                 <BookOpen className="w-6 h-6 text-white" />
               </div>
-              <span className="text-xl font-bold">AcademicHub</span>
+              <span className="text-xl font-bold">DoMyCollege</span>
             </div>
             <p className="text-slate-400 text-sm leading-relaxed">
               Your trusted partner for academic services. We help students achieve their academic goals with quality assistance and timely delivery.
@@ -79,15 +79,15 @@ const Footer: React.FC = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3">
                 <Mail className="w-5 h-5 text-primary-400" />
-                <span className="text-slate-400">support@academichub.com</span>
+                <span className="text-slate-400">domycollege1@gmail.com</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="w-5 h-5 text-primary-400" />
-                <span className="text-slate-400">+91 9876543210</span>
+                <span className="text-slate-400">+91 9879152484</span>
               </div>
               <div className="flex items-center space-x-3">
                 <MapPin className="w-5 h-5 text-primary-400" />
-                <span className="text-slate-400">Delhi, India</span>
+                <span className="text-slate-400">Ahmedabad, India</span>
               </div>
             </div>
           </div>
@@ -96,7 +96,7 @@ const Footer: React.FC = () => {
         <div className="border-t border-slate-800 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-slate-400 text-sm">
-              © 2024 AcademicHub. All rights reserved.
+              © 2025 DoMyCollege. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="#" className="text-slate-400 hover:text-white text-sm transition-colors duration-200">
